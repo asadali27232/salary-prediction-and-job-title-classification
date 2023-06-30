@@ -1,0 +1,743 @@
+job_title,age,python_yn,R_yn,spark,aws,excel,min_salary,max_salary,avg_salary
+Data Scientist,47,1,0,0,0,1,53,91,72
+Healthcare Data Scientist,36,1,0,0,0,0,63,112,87.5
+Data Scientist,10,1,0,1,0,1,80,90,85
+Data Scientist,55,1,0,0,0,0,56,97,76.5
+Data Scientist,22,1,0,0,0,1,86,143,114.5
+Data Scientist,20,1,0,0,1,1,71,119,95
+Data Scientist,12,0,0,0,0,1,54,93,73.5
+Data Scientist,15,1,0,1,1,1,86,142,114
+Research Scientist,6,0,0,0,0,0,38,84,61
+Data Scientist,11,1,0,1,0,0,120,160,140
+Data Scientist,9,1,0,0,0,0,126,201,163.5
+Data Scientist,52,0,0,0,0,0,64,106,85
+Staff Data Scientist - Technology,58,0,0,0,0,0,106,172,139
+Data Analyst,8,1,0,1,1,1,46,85,65.5
+Data Scientist,239,1,0,1,0,0,83,144,113.5
+Data Engineer I,25,0,0,0,0,1,102,190,146
+"Scientist I/II, Biology",9,0,0,0,0,1,67,137,102
+Customer Data Scientist,9,1,0,1,1,1,118,189,153.5
+Data Scientist - Health Data Analytics,10,0,0,0,0,0,110,175,142.5
+Data Scientist,105,1,0,0,0,1,64,111,87.5
+Data Scientist,8,1,0,1,0,0,81,130,105.5
+Senior Data Scientist / Machine Learning,7,0,0,0,0,1,73,119,96
+Data Scientist - Quantitative,25,1,0,0,1,1,86,139,112.5
+Data Scientist,85,1,0,0,0,1,63,105,84
+Data Scientist,8,1,0,0,1,0,109,177,143
+Digital Health Data Scientist,171,1,0,0,1,1,63,110,86.5
+Data Scientist,68,1,0,1,1,1,75,124,99.5
+Associate Data Analyst,168,0,0,0,0,1,34,61,47.5
+Clinical Data Scientist,171,0,0,0,1,1,63,105,84
+Data Scientist,10,1,0,1,0,1,80,90,85
+Data Scientist,55,1,0,0,0,0,56,97,76.5
+Data Scientist,23,1,0,0,0,0,72,120,96
+Data Scientist / Machine Learning Expert,24,1,0,0,0,0,86,143,114.5
+Data Scientist,24,1,0,1,0,1,93,149,121
+Data Scientist,46,1,0,0,0,1,85,140,112.5
+Web Data Analyst,12,1,0,0,0,1,77,135,106
+Data Scientist,51,1,0,1,1,0,82,132,107
+Data Scientist,10,1,0,1,0,1,83,137,110
+Senior Data Scientist,150,1,0,0,0,1,115,180,147.5
+Data Engineer,35,1,0,0,0,1,74,138,106
+Data Analyst,12,1,0,0,1,1,64,112,88
+Data Engineer,-1,0,0,0,0,1,68,129,98.5
+Data Scientist - Algorithms & Inference,10,0,0,0,0,0,110,175,142.5
+Scientist,5,0,0,0,1,0,52,113,82.5
+Senior Data Scientist,27,1,0,1,0,1,110,150,130
+Data Scientist,-1,0,0,0,1,1,150,160,155
+Lead Data Scientist,62,1,0,0,0,1,158,211,184.5
+Associate Data Analyst,34,0,0,0,0,1,20,39,29.5
+Spectral Scientist/Engineer,21,0,0,0,0,0,56,117,86.5
+College Hire - Data Scientist - Open to December 2019 Graduates,95,0,0,0,0,0,63,99,81
+Data Scientist,36,1,0,0,0,1,68,114,91
+"Data Scientist, Office of Data Science",108,1,0,0,0,0,86,143,114.5
+Data Science Analyst,18,1,0,0,0,1,41,95,68
+Data Scientist,157,1,0,0,0,1,86,144,115
+Data Scientist,81,0,0,0,0,1,80,139,109.5
+Data Scientist,150,1,0,0,0,1,56,95,75.5
+Data Scientist,8,1,0,1,0,1,120,189,154.5
+Data Scientist,4,1,0,1,0,0,111,176,143.5
+Data Scientist,12,0,0,0,0,1,54,93,73.5
+Data Scientist,20,1,0,0,1,1,71,119,95
+Senior Data Scientist,135,1,0,0,1,0,82,132,107
+Data Scientist,9,1,0,1,1,0,84,146,115
+Senior Risk Data Scientist,14,0,0,0,0,0,107,172,139.5
+Data Scientist in Artificial Intelligence Early Career,55,0,0,0,0,0,49,85,67
+Data Scientist,72,1,0,0,0,0,61,109,85
+Data Scientist,14,1,0,0,0,1,88,148,118
+Data Scientist,17,1,0,0,0,1,60,99,79.5
+Data Scientist - Research,21,1,0,0,0,0,41,72,56.5
+Data Scientist,-1,1,0,1,1,0,96,161,128.5
+R&D Data Analysis Scientist,81,0,0,0,0,0,65,130,97.5
+Analytics Consultant,5,1,0,0,0,0,52,81,66.5
+"Director, Data Science",93,1,0,0,0,1,139,220,179.5
+Scientist,42,0,0,0,0,1,50,102,76
+Data Scientist SR,10,1,0,1,0,0,85,139,112
+Data Scientist,160,1,0,0,0,0,74,122,98
+R&D Sr Data Scientist,81,0,0,1,1,0,99,157,128
+Customer Data Scientist/Sales Engineer (Bay,9,1,0,1,1,1,79,222,150.5
+Research Scientist,20,0,0,0,1,0,57,118,87.5
+Data Scientist,3,1,0,0,0,1,83,137,110
+Data Scientist,25,1,0,0,0,1,86,141,113.5
+Data Scientist,4,1,0,0,0,0,94,154,124
+Jr. Business Data Analyst,23,0,0,0,0,1,37,76,56.5
+Data Scientist,78,1,0,0,0,1,100,160,130
+Data Analyst,12,0,0,0,0,1,55,100,77.5
+Data Engineer,18,1,0,0,1,1,60,114,87
+Data Analyst,72,0,0,0,0,1,39,68,53.5
+Staff Data Scientist - Technology,58,0,0,0,0,0,106,172,139
+Data Scientist,15,1,0,1,1,1,86,142,114
+Data Scientist,12,1,0,1,0,1,64,107,85.5
+Data Management Specialist,24,0,0,0,0,1,31,65,48
+E-Commerce Data Analyst,21,0,0,0,0,1,34,62,48
+Sr. Scientist II,30,0,0,0,0,1,117,231,174
+Insurance Data Scientist,52,1,0,1,0,0,64,106,85
+Data Modeler,17,0,0,0,0,0,79,134,106.5
+Data Analyst / Scientist,32,0,0,0,0,1,52,93,72.5
+Scientist,24,0,0,0,0,0,55,116,85.5
+Data Scientist,62,1,0,0,0,1,72,123,97.5
+Data Scientist,10,1,0,0,0,1,74,124,99
+Data Analyst,19,0,0,0,0,1,40,73,56.5
+Lead Data Scientist,13,1,0,0,0,0,102,164,133
+Data Scientist,8,1,0,1,0,0,89,153,121
+Data Scientist,28,1,0,0,0,0,61,110,85.5
+"Data Scientist, Rice University",5,1,0,0,0,0,65,110,87.5
+Senior Data Scientist,85,1,0,0,0,1,200,275,237.5
+Data Engineer,23,1,0,1,0,0,68,123,95.5
+Senior Data Scientist,26,1,0,1,1,1,80,129,104.5
+Financial Data Analyst,8,0,0,0,0,1,41,72,56.5
+Senior Data Analyst,10,0,0,0,0,1,39,71,55
+Research Scientist,43,0,0,0,0,1,38,85,61.5
+Data Scientist,14,0,0,1,1,0,121,193,157
+Data Engineer,1,1,0,0,0,0,54,102,78
+Data Scientist,239,1,0,1,0,0,83,144,113.5
+Data Scientist,11,1,0,1,0,0,120,160,140
+Data Scientist,5,0,0,1,0,1,102,163,132.5
+Data Engineer,38,1,0,1,0,0,76,140,108
+Ag Data Scientist,83,0,0,0,0,0,60,101,80.5
+Data Scientist,20,1,0,0,0,0,82,133,107.5
+Data Engineer,24,0,0,1,1,0,65,125,95
+Data Scientist II,23,1,0,1,0,0,91,148,119.5
+Senior Data Engineer,20,0,0,1,1,0,95,173,134
+Data Scientist,21,1,0,0,0,1,77,124,100.5
+Data Scientist,142,1,0,0,0,0,80,135,107.5
+Data Engineer,5,1,0,1,1,0,85,159,122
+Data Engineer,27,1,0,1,0,1,80,105,92.5
+Data Analyst,34,0,0,0,0,1,43,81,62
+Project Scientist,20,0,0,0,0,0,29,50,39.5
+Data Scientist,54,0,0,0,0,1,82,133,107.5
+Data Analytics Manager,3,1,0,0,1,1,26,55,40.5
+Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics,62,1,0,1,0,0,61,118,89.5
+Data Scientist,12,1,0,0,1,1,60,102,81
+Senior Data Scientist,8,1,0,0,1,0,112,182,147
+Data Scientist,62,1,0,0,0,1,64,106,85
+Associate Scientist,49,0,0,0,0,1,51,112,81.5
+"Scientist 2, QC Viral Vector",23,0,0,0,0,1,113,223,168
+Machine Learning Engineer,13,1,0,1,1,1,72,129,100.5
+Data Scientist/ML Engineer,77,1,0,1,0,1,71,123,97
+Data Scientist,52,0,0,0,0,0,64,106,85
+Customer Data Scientist,9,1,0,1,1,1,118,189,153.5
+Data Engineer,3,0,0,0,0,0,120,145,132.5
+Data Engineer,12,0,0,1,0,1,80,120,100
+Sr. Data Scientist,9,1,0,0,0,0,80,130,105
+Data Engineer 4 - Contract,-1,0,0,0,1,1,59,115,87
+Data Analyst - Asset Management,7,0,0,0,0,1,71,136,103.5
+Senior Research Scientist - Embedded System Development for DevOps,36,1,0,0,0,1,81,167,124
+Data Scientist - Bioinformatics,55,1,0,0,0,0,49,85,67
+Data Engineer,20,0,0,0,0,0,60,114,87
+Customer Data Scientist/Sales Engineer,9,1,0,1,1,1,71,204,137.5
+Lead Data Scientist,33,1,0,0,0,1,75,125,100
+MongoDB Data Engineer II,75,0,0,0,0,1,77,136,106.5
+Senior Data Scientist Statistics,55,0,0,0,0,0,74,123,98.5
+Senior Data Analyst,10,1,0,0,0,1,44,78,61
+Senior Spark Engineer (Data Science),12,1,0,1,1,0,65,148,106.5
+Data Engineer,15,1,0,1,0,0,59,110,84.5
+BI & Platform Analytics Manager,174,1,0,0,0,1,85,134,109.5
+Lead Data Scientist,169,1,0,1,1,0,124,204,164
+"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",44,1,0,1,0,1,131,207,169
+Senior Data Scientist,24,1,0,1,1,1,110,174,142
+Pricipal Scientist Molecular and cellular biologist,239,0,0,0,0,1,52,101,76.5
+"Data Scientist (Actuary, FSA or ASA)",39,1,0,0,0,1,81,133,107
+Staff Data Scientist,50,1,0,0,1,0,132,211,171.5
+Senior Data Scientist / Machine Learning,7,0,0,0,0,1,73,119,96
+Data Scientist - Health Data Analytics,10,0,0,0,0,0,110,175,142.5
+Data Engineer 5 - Contract (Remote),-1,0,0,0,0,1,74,140,107
+Senior Scientist - Neuroscience,10,1,0,0,0,1,100,190,145
+Senior Data Analyst,27,1,0,0,0,1,43,80,61.5
+Medical Lab Scientist,3,0,0,0,0,0,17,24,20.5
+"Risk and Analytics IT, Data Scientist",69,1,0,0,0,0,91,149,120
+"Scientist, Analytical Development",7,0,0,0,0,0,42,82,62
+Senior Data Scientist,38,1,0,1,0,0,116,185,150.5
+Analytics Manager,53,0,0,0,0,1,59,116,87.5
+Data Engineer,14,1,0,1,1,1,48,95,71.5
+Digital Marketing & ECommerce Data Analyst,14,0,0,0,0,1,31,72,51.5
+Sr. Scientist - Digital & Image Analysis/Computational Pathology,239,0,0,0,0,1,105,198,151.5
+Senior Data Analyst,6,1,0,0,0,1,55,100,77.5
+Principal Scientist - Immunologist,239,0,0,0,0,1,98,182,140
+Senior Data Scientist,38,0,0,0,0,1,73,124,98.5
+Principal Data Scientist with over 10 years experience,3,1,0,0,1,1,200,250,225
+MED TECH/LAB SCIENTIST - LABORATORY,85,0,0,0,0,0,21,34,27.5
+"Sr. Scientist, Quantitative Translational Sciences",239,0,0,0,0,0,117,206,161.5
+Sr. Data Scientist II,72,1,0,1,1,0,111,183,147
+Excel / VBA / SQL Data Analyst,59,0,0,0,0,1,44,78,61
+Machine Learning Research Scientist,36,1,0,0,0,0,81,159,120
+"VP, Data Science",12,1,0,0,0,1,83,166,124.5
+Senior Data Scientist,11,1,0,0,0,0,114,182,148
+Radar Data Analyst,24,1,0,0,0,1,42,76,59
+PL Actuarial-Lead Data Scientist,168,1,0,0,0,1,114,179,146.5
+PV Scientist,-1,0,0,0,0,1,60,123,91.5
+Senior Data & Machine Learning Scientist,5,1,0,0,1,0,100,166,133
+Principal Data Scientist (Computational Chemistry),7,1,0,0,1,0,108,173,140.5
+Data Engineer,-1,0,0,0,0,1,48,93,70.5
+"Principal Scientist, Chemistry & Immunology",6,0,0,0,0,0,54,115,84.5
+Software Engineer - Data Visualization,18,0,0,0,0,1,60,127,93.5
+"Scientist/Senior Scientist, Autoimmune",7,0,0,0,0,0,90,179,134.5
+Staff Machine Learning Engineer,13,1,0,1,0,0,138,224,181
+"Principal Scientist, Hematology",6,0,0,0,0,0,54,115,84.5
+Lead Data Engineer,10,1,0,1,1,0,190,220,205
+Marketing Data Analyst,34,0,0,0,0,1,35,62,48.5
+Medical Laboratory Scientist,43,0,0,0,1,0,18,25,21.5
+R&D Specialist/ Food Scientist,-1,0,0,0,0,0,39,66,52.5
+Senior Research Scientist-Machine Learning,36,0,0,0,0,0,81,167,124
+Analytics Manager - Data Mart,24,0,0,0,0,0,42,86,64
+Sr. Data Engineer - Contract-to-Hire (Java),62,1,0,0,0,0,69,127,98
+MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,85,0,0,0,0,0,21,34,27.5
+Food Scientist - Developer,56,0,0,0,0,0,40,68,54
+Staff Scientist-Downstream Process Development,59,0,0,0,0,1,49,113,81
+Sr. Data Engineer,15,0,0,0,0,0,75,140,107.5
+Data Scientist - Quantitative,25,1,0,0,1,1,86,139,112.5
+Data Scientist,25,1,0,1,0,1,66,112,89
+Senior Research Statistician- Data Scientist,95,0,0,0,0,0,76,125,100.5
+"Business Data Analyst, SQL",18,0,0,0,0,1,44,86,65
+Medical Technologist / Clinical Laboratory Scientist,90,0,0,0,0,0,15,25,20
+Data Scientist,21,1,0,1,1,1,53,92,72.5
+Senior Data Analyst,10,1,0,0,0,1,44,78,61
+BI & Platform Analytics Manager,174,1,0,0,0,1,85,134,109.5
+Data Engineer,15,1,0,1,0,0,59,110,84.5
+Data Scientist,28,0,0,0,0,0,64,111,87.5
+Data Analyst,23,1,1,0,0,1,65,120,92.5
+Associate Data Scientist/Computer Scientist,62,1,0,1,0,0,60,103,81.5
+Business Intelligence Analyst / Developer,39,0,0,0,0,0,53,105,79
+Lead Data Scientist,169,1,0,1,1,0,124,204,164
+"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",44,1,0,1,0,1,131,207,169
+Senior Data Scientist,24,1,0,1,1,1,110,174,142
+Data Analyst,-1,0,0,0,0,1,33,62,47.5
+Pricipal Scientist Molecular and cellular biologist,239,0,0,0,0,1,52,101,76.5
+Data Analyst,7,1,0,0,0,1,48,90,69
+Data Analyst,36,1,1,0,0,1,34,64,49
+Staff Data Scientist,50,1,0,0,1,0,132,211,171.5
+"Data Scientist (Actuary, FSA or ASA)",39,1,0,0,0,1,81,133,107
+System and Data Analyst,24,0,0,0,0,1,42,76,59
+Data Scientist,1,0,0,0,1,0,66,111,88.5
+Data Engineer 5 - Contract (Remote),-1,0,0,0,0,1,74,140,107
+Digital Health Data Scientist,171,1,0,0,1,1,63,110,86.5
+Data Scientist,85,1,0,0,0,1,63,105,84
+Data & Analytics Consultant (NYC),28,1,0,0,0,1,91,138,114.5
+Senior Scientist - Neuroscience,10,1,0,0,0,1,100,190,145
+Data Engineer,14,1,0,1,1,1,62,114,88
+Big Data Engineer - Chicago - Future Opportunity,19,1,0,1,1,0,71,129,100
+Senior Data Analyst,27,1,0,0,0,1,43,80,61.5
+Data Scientist,21,1,0,1,0,0,74,119,96.5
+Survey Data Analyst,28,1,0,0,0,1,55,97,76
+Data Scientist,54,0,0,0,0,1,15,16,15.5
+Data Scientist,10,1,0,0,0,1,61,106,83.5
+"Risk and Analytics IT, Data Scientist",69,1,0,0,0,0,91,149,120
+Data Scientist,44,0,0,0,0,1,127,199,163
+Lead Health Data Analyst - Front End,81,0,0,0,1,0,74,126,100
+Research Scientist,103,0,0,0,0,1,33,72,52.5
+Medical Lab Scientist,3,0,0,0,0,0,17,24,20.5
+Junior Data Analyst,137,0,0,0,0,1,37,63,50
+SQL Data Engineer,14,1,0,0,1,0,67,119,93
+Data Scientist,133,1,0,0,0,0,72,117,94.5
+Senior Data Scientist,38,1,0,1,0,0,116,185,150.5
+Data Scientist,16,1,0,1,1,1,78,126,102
+"Scientist, Analytical Development",7,0,0,0,0,0,42,82,62
+Analytics Manager,53,0,0,0,0,1,59,116,87.5
+Clinical Data Scientist,171,0,0,0,1,1,63,105,84
+Data Scientist,8,1,0,0,1,0,109,177,143
+"Sr. Data Scientist, Cyber-Security LT Contract",-1,1,0,1,1,1,116,194,155
+Data Engineer,14,1,0,1,1,1,48,95,71.5
+Data Scientist,20,1,0,1,0,0,83,133,108
+Sr. Scientist - Digital & Image Analysis/Computational Pathology,239,0,0,0,0,1,105,198,151.5
+Digital Marketing & ECommerce Data Analyst,14,0,0,0,0,1,31,72,51.5
+Principal Scientist - Immunologist,239,0,0,0,0,1,98,182,140
+Senior Data Analyst,6,1,0,0,0,1,55,100,77.5
+Insurance Financial Data Analyst,16,0,0,0,0,1,45,82,63.5
+Data Scientist,-1,1,0,0,0,0,83,135,109
+Data Scientist,170,1,0,0,0,0,70,122,96
+Principal Data Scientist with over 10 years experience,3,1,0,0,1,1,200,250,225
+Data Engineer,12,1,0,0,1,1,70,132,101
+Senior Data Scientist,38,0,0,0,0,1,73,124,98.5
+Data Engineer I - Azure,72,0,0,0,0,1,54,101,77.5
+"Sr. Scientist, Quantitative Translational Sciences",239,0,0,0,0,0,117,206,161.5
+MED TECH/LAB SCIENTIST - LABORATORY,85,0,0,0,0,0,21,34,27.5
+Sr. Data Scientist II,72,1,0,1,1,0,111,183,147
+Data Scientist,23,1,0,0,0,1,68,112,90
+Information Security Data Analyst,118,0,0,0,1,0,42,74,58
+Excel / VBA / SQL Data Analyst,59,0,0,0,0,1,44,78,61
+Machine Learning Research Scientist,36,1,0,0,0,0,81,159,120
+Data Scientist,276,1,0,0,0,0,95,161,128
+Data Scientist,68,1,0,1,1,1,75,124,99.5
+Data Scientist,23,1,0,0,0,0,72,120,96
+Data Scientist,17,1,0,0,0,1,76,126,101
+Senior Data Scientist,11,1,0,0,0,0,114,182,148
+"Data Scientist, Senior",8,1,0,0,1,0,108,176,142
+Senior Data Scientist,13,0,0,0,1,1,130,208,169
+"VP, Data Science",12,1,0,0,0,1,83,166,124.5
+Radar Data Analyst,24,1,0,0,0,1,42,76,59
+CONSULTANT– DATA ANALYTICS GROUP,33,1,0,0,0,0,37,68,52.5
+Data Engineer,38,0,0,1,0,0,52,99,75.5
+Senior Data Scientist,157,1,0,0,0,1,105,173,139
+"Data Engineer, Data Engineering and Artifical Intelligence",239,1,0,1,1,1,71,134,102.5
+Staff Scientist,91,0,0,0,0,0,39,82,60.5
+PL Actuarial-Lead Data Scientist,168,1,0,0,0,1,114,179,146.5
+"Associate Scientist/Scientist, Process Analytical Technology - Small Molecule Analytical Chemistry",44,0,0,0,0,1,88,162,125
+Sr. Data Analyst,169,1,0,0,0,0,60,102,81
+Senior Data & Machine Learning Scientist,5,1,0,0,1,0,100,166,133
+Program/Data Analyst,24,0,0,0,0,1,55,99,77
+Data Engineer,52,0,0,0,0,0,67,117,92
+Senior Data Scientist: Causal & Predictive analytics AI Innovation Lab,24,0,0,0,0,0,92,150,121
+"Principal Data Engineer, Data Platform & Insights",38,1,0,1,0,1,116,209,162.5
+RESEARCH SCIENTIST - BIOLOGICAL SAFETY,73,0,0,0,0,0,38,82,60
+Data Operations Lead,-1,1,0,0,0,1,85,90,87.5
+Big Data Engineer,5,1,0,1,0,0,62,119,90.5
+Data Scientist / Machine Learning Expert,24,1,0,0,0,0,86,143,114.5
+Data Scientist,24,1,0,1,0,1,93,149,121
+Senior Data Scientist,27,0,0,0,0,0,84,136,110
+PV Scientist,-1,0,0,0,0,1,60,123,91.5
+Clinical Data Analyst,52,0,0,0,0,0,52,89,70.5
+Data Engineer,-1,0,0,0,0,1,48,93,70.5
+Computational Chemist/Data Scientist,55,1,0,0,0,0,56,97,76.5
+Data Engineer,169,1,0,1,0,1,65,119,92
+Principal Data Scientist (Computational Chemistry),7,1,0,0,1,0,108,173,140.5
+Product Engineer – Data Science,51,1,0,0,0,0,63,101,82
+"Principal Scientist, Chemistry & Immunology",6,0,0,0,0,0,54,115,84.5
+"Scientist/Senior Scientist, Autoimmune",7,0,0,0,0,0,90,179,134.5
+Data Scientist,12,0,0,0,0,0,127,202,164.5
+Market Data Analyst,29,0,0,0,0,0,31,57,44
+Software Engineer - Data Visualization,18,0,0,0,0,1,60,127,93.5
+Data Engineer,5,1,0,1,0,0,75,143,109
+Staff Data Engineer,10,0,0,1,1,0,105,194,149.5
+Associate Data Engineer,13,0,0,1,1,1,45,86,65.5
+Senior Data Scientist,3,1,0,1,0,1,95,154,124.5
+Staff BI and Data Engineer,22,1,0,1,0,0,80,148,114
+Marketing Data Analyst,83,1,0,0,0,0,36,62,49
+"Principal Scientist, Hematology",6,0,0,0,0,0,54,115,84.5
+Data Analyst,31,0,0,0,0,1,50,92,71
+"Director - Data, Privacy and AI Governance",169,0,0,0,0,0,67,135,101
+Data Scientist,51,1,0,1,1,0,82,132,107
+Data Scientist,46,1,0,0,0,1,85,140,112.5
+Staff Machine Learning Engineer,13,1,0,1,0,0,138,224,181
+Information Security Data Analyst,92,1,0,1,0,0,42,80,61
+Lead Data Engineer,10,1,0,1,1,0,190,220,205
+Scientist Manufacturing - Kentucky BioProcessing,145,0,0,0,0,0,68,139,103.5
+Data Analytics Project Manager,169,0,0,0,0,1,34,92,63
+Consultant - Analytics Consulting,39,0,0,0,0,1,54,71,62.5
+Data Engineer,7,1,0,1,1,1,65,124,94.5
+Marketing Data Analyst,34,0,0,0,0,1,35,62,48.5
+Senior Scientist (Neuroscience),10,1,0,0,0,1,109,200,154.5
+Medical Laboratory Scientist,43,0,0,0,1,0,18,25,21.5
+Machine Learning Engineer - Regulatory,47,1,0,0,0,1,61,113,87
+R&D Specialist/ Food Scientist,-1,0,0,0,0,0,39,66,52.5
+Data Engineer,17,1,0,0,1,1,43,86,64.5
+"Scientist, Bacteriology",-1,0,0,0,0,1,74,149,111.5
+"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",239,0,0,1,1,1,113,196,154.5
+Senior Research Scientist-Machine Learning,36,0,0,0,0,0,81,167,124
+Senior Data Scientist,12,1,0,0,1,1,97,160,128.5
+Clinical Laboratory Scientist,54,0,0,0,0,0,24,39,31.5
+Analytics Manager - Data Mart,24,0,0,0,0,0,42,86,64
+Sr. Data Engineer - Contract-to-Hire (Java),62,1,0,0,0,0,69,127,98
+Data Scientist - Algorithms & Inference,10,0,0,0,0,0,110,175,142.5
+Senior Data Scientist - R&D Oncology,107,1,0,0,0,0,102,172,137
+Data Engineer,105,1,0,0,1,0,74,124,99
+Food Scientist - Developer,56,0,0,0,0,0,40,68,54
+Senior Data Scientist,36,1,0,0,0,0,108,171,139.5
+Data Engineer,21,0,0,0,1,0,76,142,109
+"Director II, Data Science - GRM Actuarial",108,1,0,0,0,0,202,306,254
+"Scientist, Molecular/Cellular Biologist",8,0,0,0,0,0,49,97,73
+Staff Scientist-Downstream Process Development,59,0,0,0,0,1,49,113,81
+MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,85,0,0,0,0,0,21,34,27.5
+Scientist - Analytical Services,145,0,0,0,0,1,65,134,99.5
+Associate Data Analyst- Graduate Development Program,31,0,0,0,0,0,32,59,45.5
+Sr. Data Engineer,24,1,0,1,1,0,87,158,122.5
+Senior Insurance Data Scientist,52,1,0,0,0,1,107,173,140
+Senior Data Science Systems Engineer,62,0,0,0,0,0,56,99,77.5
+ENVIRONMENTAL ENGINEER/SCIENTIST,44,0,0,0,0,1,25,28,26.5
+Senior Scientist - Regulatory Submissions,145,0,0,0,0,1,80,155,117.5
+Scientist - Biomarker and Flow Cytometry,14,0,0,0,0,0,43,98,70.5
+Revenue Analytics Manager,9,0,0,0,0,1,45,78,61.5
+"Associate Scientist, LC/MS Biologics",5,0,0,0,0,1,44,96,70
+Sr. Scientist Method Development,5,0,0,0,0,1,50,110,80
+IT - Data Engineer II,32,0,0,1,0,1,61,119,90
+"Research Scientist, Immunology - Cancer Biology",-1,0,0,0,0,1,100,140,120
+"Project Scientist - Auton Lab, Robotics Institute",36,0,0,0,0,1,56,91,73.5
+Data Scientist,36,1,0,0,0,1,68,114,91
+Data Scientist,-1,0,0,0,1,1,150,160,155
+"Enterprise Architect, Data",169,1,0,1,1,1,101,158,129.5
+"Senior Manager, Epidemiologic Data Scientist",171,0,0,0,1,1,125,210,167.5
+Corporate Risk Data Analyst (SQL Based) - Milwaukee or,150,0,0,0,1,1,43,77,60
+Lead Data Scientist,11,1,0,0,0,1,139,221,180
+"Marketing Data Analyst, May 2020 Undergrad",18,0,0,0,0,1,44,86,65
+Senior Data Engineer,30,1,0,1,1,0,78,147,112.5
+Senior Data Analyst,10,1,0,0,0,1,65,110,87.5
+Data Modeler - Data Solutions Engineer,108,1,0,0,0,1,37,66,51.5
+Associate Environmental Scientist - Wildlife Biologist,48,0,0,0,0,1,38,64,51
+"Associate, Data Science, Internal Audit",164,1,0,0,0,1,43,82,62.5
+Sr Data Engineer (Sr BI Developer),39,0,0,0,0,0,90,110,100
+Data Engineer,16,1,0,1,1,0,61,109,85
+Senior LiDAR Data Scientist,8,1,0,0,1,0,93,151,122
+Salesforce Analytics Consultant,25,1,0,0,0,0,52,81,66.5
+"Technology-Minded, Data Professional Opportunities",18,0,0,1,0,1,40,101,70.5
+Senior Data Engineer,10,1,0,1,0,0,97,180,138.5
+Managing Data Scientist/ML Engineer,77,0,0,1,0,1,81,134,107.5
+"Scientist, Pharmacometrics",12,0,0,0,0,0,84,157,120.5
+Staff Scientist- Upstream PD,59,0,0,0,0,0,49,113,81
+Scientist Manufacturing Pharma - Kentucky BioProcessing,145,0,0,0,0,0,68,139,103.5
+Sr. Data Engineer,15,0,0,0,0,0,75,140,107.5
+Lead Big Data Engineer,13,1,0,1,1,1,121,203,162
+Product Engineer – Spatial Data Science and Statistical Analysis,51,1,0,1,0,1,52,85,68.5
+Sr Software Engineer (Data Scientist),42,0,0,0,0,1,81,140,110.5
+College Hire - Data Scientist - Open to December 2019 Graduates,95,0,0,0,0,0,63,99,81
+Senior Data Scientist,27,1,0,1,0,1,110,150,130
+Sr. Data Engineer (ETL Developer),-1,1,0,0,0,1,83,148,115.5
+Senior Data Scientist Artificial Intelligence,55,0,0,0,0,0,60,101,80.5
+Analytics - Business Assurance Data Analyst,28,0,0,0,0,1,31,55,43
+"Associate Director/Director, Safety Scientist",17,0,0,0,0,1,102,178,140
+"Senior Scientist, Cell Pharmacology/Assay Development",-1,0,0,0,0,0,110,130,120
+Data Analyst Senior,37,0,0,0,0,1,48,85,66.5
+Lead Data Engineer (Python),14,1,0,0,1,0,66,123,94.5
+Senior Data Scientist 4 Artificial Intelligence,55,0,0,0,0,0,92,146,119
+Medical Lab Scientist - MLT,24,0,0,0,0,0,21,29,25
+"Senior Operations Data Analyst, Call Center Operations",20,0,0,0,0,1,10,17,13.5
+"Director II, Data Science - GRS Predictive Analytics",108,1,0,0,0,0,150,239,194.5
+RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,73,1,0,0,1,1,52,91,71.5
+Geospatial Software Developer and Data Scientist,-1,1,0,0,1,0,82,129,105.5
+Senior Scientist - Toxicologist - Product Integrity (Stewardship),145,0,0,0,0,1,47,101,74
+Systems Engineer II - Data Analyst,98,0,0,0,0,1,49,76,62.5
+Senior Research Analytical Scientist-Non-Targeted Analysis,62,0,0,0,0,0,43,88,65.5
+Director Data Science,31,1,0,0,1,1,124,199,161.5
+Sr Data Analyst - IT,17,0,0,0,0,1,52,93,72.5
+Senior Data Engineer,12,1,0,0,1,1,97,181,139
+Senior Data Engineer,13,0,0,0,0,0,100,173,136.5
+Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,18,1,0,1,0,0,53,96,74.5
+Senior Scientist - Biostatistician,145,0,0,0,0,1,65,96,80.5
+Data Scientist,150,1,0,0,0,1,56,95,75.5
+Data Scientist,4,1,0,1,0,0,111,176,143.5
+Data Scientist,6,1,0,0,0,0,75,127,101
+Data Engineer,169,1,0,1,0,1,65,119,92
+Computational Chemist/Data Scientist,55,1,0,0,0,0,56,97,76.5
+Principal Data Scientist (Computational Chemistry),7,1,0,0,1,0,108,173,140.5
+Data Scientist,208,0,0,0,0,1,94,139,116.5
+Principal Machine Learning Scientist,21,1,0,0,0,0,176,289,232.5
+Data Scientist,4,1,0,0,0,0,92,149,120.5
+Product Engineer – Data Science,51,1,0,0,0,0,63,101,82
+"Principal Scientist, Chemistry & Immunology",6,0,0,0,0,0,54,115,84.5
+Data Scientist,13,1,0,1,1,0,118,188,153
+Data Scientist,12,1,0,1,0,0,108,146,127
+Data Scientist,10,1,0,1,0,1,65,106,85.5
+Data Scientist,44,1,0,0,0,1,55,98,76.5
+Data Scientist,28,1,0,1,0,0,94,162,128
+Data Engineer,-1,1,0,1,1,1,63,120,91.5
+"Scientist/Senior Scientist, Autoimmune",7,0,0,0,0,0,90,179,134.5
+Data Scientist,12,0,0,0,0,0,127,202,164.5
+Software Engineer - Data Visualization,18,0,0,0,0,1,60,127,93.5
+Market Data Analyst,29,0,0,0,0,0,31,57,44
+Staff Data Engineer,10,0,0,1,1,0,105,194,149.5
+Associate Data Engineer,13,0,0,1,1,1,45,86,65.5
+Data Engineer,5,1,0,1,0,0,75,143,109
+Staff Data Engineer,32,1,0,1,1,0,126,228,177
+Data Scientist,10,1,0,1,0,1,80,134,107
+Data Scientist,8,1,0,1,0,1,120,189,154.5
+Data Scientist,-1,1,0,1,0,0,85,142,113.5
+Senior Data Scientist,3,1,0,1,0,1,95,154,124.5
+Data Scientist,-1,1,0,0,0,1,111,176,143.5
+Data Scientist,-1,1,0,0,0,0,87,140,113.5
+Data Scientist,51,1,0,0,1,0,76,127,101.5
+"Data Analyst, Performance Partnership",85,0,0,0,1,1,54,92,73
+Data Scientist,4,1,0,0,1,0,61,100,80.5
+Data Scientist,-1,1,0,0,0,0,81,140,110.5
+Staff BI and Data Engineer,22,1,0,1,0,0,80,148,114
+Data Scientist,-1,1,0,0,0,0,108,171,139.5
+Data Scientist,9,1,0,0,0,1,112,179,145.5
+Data Scientist,13,0,0,0,0,1,63,111,87
+Data Scientist,135,0,0,0,0,1,75,126,100.5
+Data Scientist Manager,53,1,0,1,0,1,110,184,147
+Data Engineer,106,1,0,0,0,1,76,145,110.5
+Marketing Data Analyst,83,1,0,0,0,0,36,62,49
+Data Scientist,-1,1,0,1,1,0,70,118,94
+Senior Data Scientist,21,1,0,0,1,0,94,153,123.5
+"Principal Scientist, Hematology",6,0,0,0,0,0,54,115,84.5
+Data Analyst,31,0,0,0,0,1,50,92,71
+Software Data Engineer - College,81,0,0,0,0,0,49,97,73
+"Director - Data, Privacy and AI Governance",169,0,0,0,0,0,67,135,101
+Staff Machine Learning Engineer,13,1,0,1,0,0,138,224,181
+Data Scientist,81,0,0,0,0,1,80,139,109.5
+Lead Data Scientist,62,1,0,0,0,1,158,211,184.5
+Senior Data Scientist - Algorithms,6,1,0,0,0,0,150,180,165
+Information Security Data Analyst,92,1,0,1,0,0,42,80,61
+Lead Data Engineer,10,1,0,1,1,0,190,220,205
+Data Analyst,14,1,0,0,0,1,42,77,59.5
+Scientist Manufacturing - Kentucky BioProcessing,145,0,0,0,0,0,68,139,103.5
+Consultant - Analytics Consulting,39,0,0,0,0,1,54,71,62.5
+Data Analytics Project Manager,169,0,0,0,0,1,34,92,63
+Data Analyst,40,0,0,0,0,1,47,85,66
+Data Engineer,7,1,0,1,1,1,65,124,94.5
+Data Scientist,8,1,0,0,1,0,56,95,75.5
+Machine Learning Engineer,66,1,0,0,0,0,62,112,87
+Senior Data Scientist Oncology,107,1,0,0,0,1,107,173,140
+Data Scientist,14,1,0,0,0,1,64,108,86
+Senior Data Scientist,8,1,0,0,0,0,89,144,116.5
+Senior Scientist (Neuroscience),10,1,0,0,0,1,109,200,154.5
+Machine Learning Engineer - Regulatory,47,1,0,0,0,1,61,113,87
+Marketing Data Analyst,34,0,0,0,0,1,35,62,48.5
+Data Engineer,18,1,0,1,0,1,55,105,80
+Medical Laboratory Scientist,43,0,0,0,1,0,18,25,21.5
+R&D Specialist/ Food Scientist,-1,0,0,0,0,0,39,66,52.5
+Principal Data Scientist,81,1,0,0,0,0,135,211,173
+Data Engineer,23,1,0,1,0,0,57,80,68.5
+Data Scientist - Alpha Insights,19,0,0,0,0,0,129,215,172
+"Data Scientist, Office of Data Science",108,1,0,0,0,0,86,143,114.5
+"Associate Principal Scientist, Pharmacogenomics",107,0,0,0,0,0,63,127,95
+Data Scientist - Systems Engineering,62,1,0,0,0,1,50,89,69.5
+Data Engineer,17,1,0,0,1,1,43,86,64.5
+"Scientist, Bacteriology",-1,0,0,0,0,1,74,149,111.5
+Data Scientist,13,1,0,0,0,1,71,124,97.5
+"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",239,0,0,1,1,1,113,196,154.5
+Senior Research Scientist-Machine Learning,36,0,0,0,0,0,81,167,124
+Data Scientist,9,1,0,1,1,0,69,121,95
+Senior Data Scientist,12,1,0,0,1,1,97,160,128.5
+Principal Data Scientist,14,0,0,0,1,1,150,238,194
+Data Scientist,15,1,0,1,1,1,77,132,104.5
+Clinical Laboratory Scientist,54,0,0,0,0,0,24,39,31.5
+Data Engineer - Consultant (Charlotte Based),12,1,0,0,0,1,59,112,85.5
+"Data Analyst 1, full-time contract worker for up to 12 months",-1,0,0,0,1,1,35,65,50
+Data Engineer,23,1,0,1,1,1,79,147,113
+"Scientist, Immuno-Oncology",190,0,0,0,1,0,62,119,90.5
+Senior Data Scientist,12,1,0,1,0,1,119,187,153
+Products Data Analyst II,32,0,0,0,0,1,90,157,123.5
+Lead Data Analyst,10,0,0,1,0,0,32,62,47
+Analytics Manager - Data Mart,24,0,0,0,0,0,42,86,64
+Data Science Engineer - Mobile,38,1,0,0,0,1,116,208,162
+Senior Data Scientist - R&D Oncology,107,1,0,0,0,0,102,172,137
+Sr. Data Engineer - Contract-to-Hire (Java),62,1,0,0,0,0,69,127,98
+Data Scientist,157,1,0,0,0,1,86,144,115
+Senior Data Scientist,150,1,0,0,0,1,102,165,133.5
+Data Engineer,105,1,0,0,1,0,74,124,99
+Food Scientist - Developer,56,0,0,0,0,0,40,68,54
+Senior Data Engineer,16,0,0,0,1,1,76,142,109
+Data Engineer,21,0,0,0,1,0,76,142,109
+Senior Data Scientist,36,1,0,0,0,0,108,171,139.5
+"Director II, Data Science - GRM Actuarial",108,1,0,0,0,0,202,306,254
+Machine Learning Engineer,45,1,0,0,1,1,91,159,125
+"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",24,1,0,0,0,0,80,133,106.5
+"Scientist, Molecular/Cellular Biologist",8,0,0,0,0,0,49,97,73
+Staff Scientist-Downstream Process Development,59,0,0,0,0,1,49,113,81
+MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,85,0,0,0,0,0,21,34,27.5
+Scientist - Analytical Services,145,0,0,0,0,1,65,134,99.5
+Associate Data Analyst- Graduate Development Program,31,0,0,0,0,0,32,59,45.5
+IT Associate Data Analyst,168,0,0,0,0,0,39,69,54
+Sr. Data Engineer,24,1,0,1,1,0,87,158,122.5
+Clinical Data Analyst,43,0,0,0,0,1,27,48,37.5
+Business Data Analyst,18,1,0,0,0,1,36,71,53.5
+Senior Insurance Data Scientist,52,1,0,0,0,1,107,173,140
+Senior Data Science Systems Engineer,62,0,0,0,0,0,56,99,77.5
+ENVIRONMENTAL ENGINEER/SCIENTIST,44,0,0,0,0,1,25,28,26.5
+Senior Scientist - Regulatory Submissions,145,0,0,0,0,1,80,155,117.5
+Scientist - Biomarker and Flow Cytometry,14,0,0,0,0,0,43,98,70.5
+"Associate Scientist, LC/MS Biologics",5,0,0,0,0,1,44,96,70
+Revenue Analytics Manager,9,0,0,0,0,1,45,78,61.5
+Sr. Scientist Method Development,5,0,0,0,0,1,50,110,80
+Data Scientist,17,1,0,0,0,1,60,99,79.5
+Data Scientist - Sales,6,1,0,0,0,1,130,206,168
+IT - Data Engineer II,32,0,0,1,0,1,61,119,90
+"Research Scientist, Immunology - Cancer Biology",-1,0,0,0,0,1,100,140,120
+Senior Data Analyst,12,1,0,0,0,0,99,178,138.5
+"Principal, Data Science - Advanced Analytics",3,0,0,0,0,0,86,137,111.5
+Data Science Project Manager,169,0,0,0,0,1,37,100,68.5
+"Sr Scientist, Immuno-Oncology - Oncology",190,0,0,0,1,0,58,111,84.5
+Senior Data Engineer,14,1,0,1,1,0,72,133,102.5
+"Project Scientist - Auton Lab, Robotics Institute",36,0,0,0,0,1,56,91,73.5
+Research Scientist – Security and Privacy,53,1,0,0,0,0,61,126,93.5
+Data Science Manager,-1,0,0,0,0,1,95,160,127.5
+Data Analyst 2 (Missionary Department),-1,0,0,0,0,0,53,91,72
+"Enterprise Architect, Data",169,1,0,1,1,1,101,158,129.5
+Supply Chain Data Analyst,43,1,0,0,0,1,33,61,47
+Data Engineer - ETL,6,1,0,1,1,1,44,86,65
+Corporate Risk Data Analyst (SQL Based) - Milwaukee or,150,0,0,0,1,1,43,77,60
+"Senior Manager, Epidemiologic Data Scientist",171,0,0,0,1,1,125,210,167.5
+"Marketing Data Analyst, May 2020 Undergrad",18,0,0,0,0,1,44,86,65
+Senior Data Analyst,8,1,0,0,0,0,69,119,94
+Senior Data Analyst,10,1,0,0,0,1,65,110,87.5
+Senior Data Engineer,8,1,0,1,1,0,67,127,97
+Senior Data Engineer,30,1,0,1,1,0,78,147,112.5
+Data Modeler (Analytical Systems),169,0,0,1,1,1,66,117,91.5
+Data Modeler - Data Solutions Engineer,108,1,0,0,0,1,37,66,51.5
+Data Scientist in Translational Medicine,24,0,0,0,0,0,86,143,114.5
+Data Scientist,9,1,0,1,1,0,84,146,115
+Product Manager/Data Evangelist,-1,1,0,0,1,0,50,98,74
+Associate Environmental Scientist - Wildlife Biologist,48,0,0,0,0,1,38,64,51
+Sr Data Engineer (Sr BI Developer),39,0,0,0,0,0,90,110,100
+"Senior Data Scientist – Visualization, Novartis AI Innovation Lab",24,0,0,0,0,0,92,150,121
+Senior Data Analyst/Scientist,14,0,0,0,0,0,90,153,121.5
+"Associate, Data Science, Internal Audit",164,1,0,0,0,1,43,82,62.5
+"Scientist – Cancer Discovery, Molecular Assay",-1,0,0,0,0,1,100,135,117.5
+Senior LiDAR Data Scientist,8,1,0,0,1,0,93,151,122
+Data Engineer,16,1,0,1,1,0,61,109,85
+Data Engineer,18,1,0,1,1,0,42,79,60.5
+Lead Data Scientist,11,1,0,0,0,1,139,221,180
+"Technology-Minded, Data Professional Opportunities",18,0,0,1,0,1,40,101,70.5
+Big Data Engineer,3,1,0,1,0,0,84,153,118.5
+Salesforce Analytics Consultant,25,1,0,0,0,0,52,81,66.5
+Managing Data Scientist/ML Engineer,77,0,0,1,0,1,81,134,107.5
+Senior Data Engineer,10,1,0,1,0,0,97,180,138.5
+Staff Scientist- Upstream PD,59,0,0,0,0,0,49,113,81
+Data Engineering Analyst,95,1,0,1,0,1,44,73,58.5
+Sr. Data Engineer,15,0,0,0,0,0,75,140,107.5
+"Scientist, Pharmacometrics",12,0,0,0,0,0,84,157,120.5
+Manager of Data Science,13,1,0,1,0,0,40,87,63.5
+Scientist Manufacturing Pharma - Kentucky BioProcessing,145,0,0,0,0,0,68,139,103.5
+Software Engineer (Data Scientist/Software Engineer) - SISW - MG,39,1,0,0,0,1,72,142,107
+Data Engineer,-1,1,0,1,0,0,74,137,105.5
+Data Engineer,48,0,0,0,0,0,57,109,83
+Lead Big Data Engineer,13,1,0,1,1,1,121,203,162
+Product Engineer – Spatial Data Science and Statistical Analysis,51,1,0,1,0,1,52,85,68.5
+Sr Software Engineer (Data Scientist),42,0,0,0,0,1,81,140,110.5
+Sr. Data Engineer (ETL Developer),-1,1,0,0,0,1,83,148,115.5
+Associate Research Scientist I (Protein Expression and Production),26,0,0,0,0,1,59,116,87.5
+Senior Data Scientist Artificial Intelligence,55,0,0,0,0,0,60,101,80.5
+Analytics - Business Assurance Data Analyst,28,0,0,0,0,1,31,55,43
+"Associate Director/Director, Safety Scientist",17,0,0,0,0,1,102,178,140
+"Director, Precision Medicine Clinical Biomarker Scientist",171,0,0,0,1,0,136,208,172
+"Senior Scientist, Cell Pharmacology/Assay Development",-1,0,0,0,0,0,110,130,120
+Data Analyst Senior,37,0,0,0,0,1,48,85,66.5
+Senior Formulations Scientist II,26,0,0,0,0,1,71,129,100
+Lead Data Engineer (Python),14,1,0,0,1,0,66,123,94.5
+Data Science Manager,9,1,0,0,0,1,171,272,221.5
+Senior Data Scientist 4 Artificial Intelligence,55,0,0,0,0,0,92,146,119
+Data Engineer,25,1,0,0,0,0,65,126,95.5
+"Director II, Data Science - GRS Predictive Analytics",108,1,0,0,0,0,150,239,194.5
+Medical Lab Scientist - MLT,24,0,0,0,0,0,21,29,25
+"Senior Operations Data Analyst, Call Center Operations",20,0,0,0,0,1,10,17,13.5
+Senior Quantitative Analyst,47,1,0,0,0,1,118,228,173
+Geospatial Software Developer and Data Scientist,-1,1,0,0,1,0,82,129,105.5
+RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,73,1,0,0,1,1,52,91,71.5
+Senior Scientist - Toxicologist - Product Integrity (Stewardship),145,0,0,0,0,1,47,101,74
+Systems Engineer II - Data Analyst,98,0,0,0,0,1,49,76,62.5
+Senior Research Analytical Scientist-Non-Targeted Analysis,62,0,0,0,0,0,43,88,65.5
+Data Scientist,72,1,0,0,0,0,61,109,85
+Principal Data Scientist,107,1,0,0,0,1,113,182,147.5
+Director Data Science,31,1,0,0,1,1,124,199,161.5
+Data Engineer,121,0,0,0,0,1,58,104,81
+Sr Data Analyst - IT,17,0,0,0,0,1,52,93,72.5
+Senior Data Engineer,12,1,0,0,1,1,97,181,139
+Senior Data Engineer,13,0,0,0,0,0,100,173,136.5
+Sr. Data Analyst,12,1,0,1,0,1,58,108,83
+Research Scientist or Senior Research Scientist - Computer Vision,29,0,0,0,1,1,81,161,121
+Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,18,1,0,1,0,0,53,96,74.5
+Data Analyst Chemist - Quality System Contractor,18,0,0,0,0,1,61,110,85.5
+Senior Scientist - Biostatistician,145,0,0,0,0,1,65,96,80.5
+Research Scientist / Principal Research Scientist - Multiphysical Systems,29,0,0,0,0,0,115,220,167.5
+"Research Scientist, Machine Learning Department",36,1,0,0,0,0,71,144,107.5
+Foundational Community Supports Data Analyst,41,0,0,0,1,1,32,57,44.5
+"Senior Health Data Analyst, Star Ratings",131,0,0,0,0,0,79,136,107.5
+"Principal Research Scientist/Team Lead, Medicinal Chemistry - Oncology",-1,0,0,0,0,0,120,145,132.5
+Sr. Data Analyst,26,0,0,0,0,1,50,89,69.5
+"Senior Engineer, Data Management Engineering",50,1,0,1,1,0,68,129,98.5
+Quality Control Scientist III- Analytical Development,59,0,0,0,0,1,48,113,80.5
+"Clinical Scientist, Clinical Development",12,0,0,0,0,1,27,47,37
+Software Engineer Staff Scientist: Human Language Technologies,98,1,0,0,0,0,74,124,99
+"Manager, Safety Scientist, Medical Safety & Risk Management",12,0,0,0,0,1,68,125,96.5
+"Assistant Director/Director, Office of Data Science",108,0,0,0,0,0,39,67,53
+Sr. Data Engineer | Big Data SaaS Pipeline,9,0,0,1,1,0,71,135,103
+Senior Risk Data Scientist,14,0,0,0,0,0,107,172,139.5
+Data Scientist in Artificial Intelligence Early Career,55,0,0,0,0,0,49,85,67
+Consultant - Analytics Consulting,39,0,0,0,0,1,54,71,62.5
+Scientist - CVRM Metabolism - in vivo pharmacology,107,0,0,0,0,0,61,123,92
+Data Analyst,40,0,0,0,0,1,47,85,66
+Data Engineer,7,1,0,1,1,1,65,124,94.5
+Data Scientist,31,1,0,0,1,1,87,141,114
+Data Scientist,8,1,0,0,1,0,56,95,75.5
+Data Scientist,-1,0,0,0,0,1,71,121,96
+Machine Learning Engineer,66,1,0,0,0,0,62,112,87
+Data Scientist,14,1,0,0,0,1,64,108,86
+Senior Data Scientist,8,1,0,0,0,0,89,144,116.5
+Senior Scientist (Neuroscience),10,1,0,0,0,1,109,200,154.5
+Marketing Data Analyst,34,0,0,0,0,1,35,62,48.5
+Machine Learning Engineer - Regulatory,47,1,0,0,0,1,61,113,87
+Data Engineer,18,1,0,1,0,1,55,105,80
+Medical Laboratory Scientist,43,0,0,0,1,0,18,25,21.5
+Principal Data Scientist,81,1,0,0,0,0,135,211,173
+R&D Specialist/ Food Scientist,-1,0,0,0,0,0,39,66,52.5
+Data Engineer,23,1,0,1,0,0,57,80,68.5
+"Associate Principal Scientist, Pharmacogenomics",107,0,0,0,0,0,63,127,95
+Data Scientist - Systems Engineering,62,1,0,0,0,1,50,89,69.5
+Senior Data Scientist,135,1,0,0,1,0,82,132,107
+Data Scientist SR,10,1,0,1,0,0,85,139,112
+Data Scientist,23,1,0,0,0,0,72,121,96.5
+"Scientist, Bacteriology",-1,0,0,0,0,1,74,149,111.5
+"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",239,0,0,1,1,1,113,196,154.5
+Data Scientist,9,1,0,1,1,0,69,121,95
+Data Scientist,13,1,0,0,0,1,71,124,97.5
+Senior Data Scientist,12,1,0,0,1,1,97,160,128.5
+Senior Research Scientist-Machine Learning,36,0,0,0,0,0,81,167,124
+Principal Data Scientist,14,0,0,0,1,1,150,238,194
+Clinical Laboratory Scientist,54,0,0,0,0,0,24,39,31.5
+"Data Analyst 1, full-time contract worker for up to 12 months",-1,0,0,0,1,1,35,65,50
+Data Scientist,15,1,0,1,1,1,77,132,104.5
+Data Scientist,51,1,0,0,0,1,51,88,69.5
+Data Scientist,23,1,0,0,0,0,101,141,121
+Data Engineer - Consultant (Charlotte Based),12,1,0,0,0,1,59,112,85.5
+Data Engineer,23,1,0,1,1,1,79,147,113
+Data Scientist (Warehouse Automation),15,1,0,0,1,0,79,127,103
+"Scientist, Immuno-Oncology",190,0,0,0,1,0,62,119,90.5
+Senior Data Scientist,12,1,0,1,0,1,119,187,153
+Jr. Data Scientist,62,1,0,1,0,1,81,132,106.5
+Senior Data Scientist,9,0,0,0,0,1,120,140,130
+Products Data Analyst II,32,0,0,0,0,1,90,157,123.5
+Data Architect / Data Modeler,21,0,0,0,1,1,63,110,86.5
+Analytics Manager - Data Mart,24,0,0,0,0,0,42,86,64
+Lead Data Analyst,10,0,0,1,0,0,32,62,47
+Data Science Engineer - Mobile,38,1,0,0,0,1,116,208,162
+Senior Data Scientist Oncology,107,1,0,0,0,1,107,173,140
+Data Scientist,-1,0,0,0,0,0,65,113,89
+Sr. Data Engineer - Contract-to-Hire (Java),62,1,0,0,0,0,69,127,98
+Senior Data Scientist - R&D Oncology,107,1,0,0,0,0,102,172,137
+Data Engineer,105,1,0,0,1,0,74,124,99
+Food Scientist - Developer,56,0,0,0,0,0,40,68,54
+Senior Data Engineer,16,0,0,0,1,1,76,142,109
+Data Engineer,21,0,0,0,1,0,76,142,109
+Senior Data Scientist,36,1,0,0,0,0,108,171,139.5
+"Director II, Data Science - GRM Actuarial",108,1,0,0,0,0,202,306,254
+Machine Learning Engineer,45,1,0,0,1,1,91,159,125
+"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",24,1,0,0,0,0,80,133,106.5
+MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,85,0,0,0,0,0,21,34,27.5
+"Scientist, Molecular/Cellular Biologist",8,0,0,0,0,0,49,97,73
+Staff Scientist-Downstream Process Development,59,0,0,0,0,1,49,113,81
+Data Scientist,-1,1,0,1,1,0,96,161,128.5
+Scientist - Analytical Services,145,0,0,0,0,1,65,134,99.5
+"Associate Scientist / Sr. Associate Scientist, Antibody Discovery",14,0,0,0,1,1,59,125,92
+Associate Data Analyst- Graduate Development Program,31,0,0,0,0,0,32,59,45.5
+Sr. Data Engineer,24,1,0,1,1,0,87,158,122.5
+Clinical Data Analyst,43,0,0,0,0,1,27,48,37.5
+IT Associate Data Analyst,168,0,0,0,0,0,39,69,54
+Business Data Analyst,18,1,0,0,0,1,36,71,53.5
+Senior Insurance Data Scientist,52,1,0,0,0,1,107,173,140
+Senior Data Science Systems Engineer,62,0,0,0,0,0,56,99,77.5
+ENVIRONMENTAL ENGINEER/SCIENTIST,44,0,0,0,0,1,25,28,26.5
+Senior Scientist - Regulatory Submissions,145,0,0,0,0,1,80,155,117.5
+Scientist - Biomarker and Flow Cytometry,14,0,0,0,0,0,43,98,70.5
+Revenue Analytics Manager,9,0,0,0,0,1,45,78,61.5
+Sr. Scientist Method Development,5,0,0,0,0,1,50,110,80
+"Associate Scientist, LC/MS Biologics",5,0,0,0,0,1,44,96,70
+"Research Scientist, Immunology - Cancer Biology",-1,0,0,0,0,1,100,140,120
+IT - Data Engineer II,32,0,0,1,0,1,61,119,90
+Machine Learning Engineer (NLP),13,1,0,0,1,1,80,142,111
+Senior Data Analyst,12,1,0,0,0,0,99,178,138.5
+Data Science Project Manager,169,0,0,0,0,1,37,100,68.5
+Data Engineer,9,1,0,0,1,1,62,113,87.5
+"Principal, Data Science - Advanced Analytics",3,0,0,0,0,0,86,137,111.5
+"Sr Scientist, Immuno-Oncology - Oncology",190,0,0,0,1,0,58,111,84.5
+Senior Data Engineer,14,1,0,1,1,0,72,133,102.5
+"Project Scientist - Auton Lab, Robotics Institute",36,0,0,0,0,1,56,91,73.5
+Data Science Manager,-1,0,0,0,0,1,95,160,127.5
+Research Scientist – Security and Privacy,53,1,0,0,0,0,61,126,93.5
